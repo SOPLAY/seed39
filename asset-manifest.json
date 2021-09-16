@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "//soplay.github.io/seed39/static/css/main.d6360637.chunk.css",
-    "main.js": "//soplay.github.io/seed39/static/js/main.8e025c2c.chunk.js",
-    "main.js.map": "//soplay.github.io/seed39/static/js/main.8e025c2c.chunk.js.map",
-    "runtime-main.js": "//soplay.github.io/seed39/static/js/runtime-main.73ee31f2.js",
-    "runtime-main.js.map": "//soplay.github.io/seed39/static/js/runtime-main.73ee31f2.js.map",
-    "static/js/2.fb7bf357.chunk.js": "//soplay.github.io/seed39/static/js/2.fb7bf357.chunk.js",
-    "static/js/2.fb7bf357.chunk.js.map": "//soplay.github.io/seed39/static/js/2.fb7bf357.chunk.js.map",
-    "static/js/3.5ae3e36e.chunk.js": "//soplay.github.io/seed39/static/js/3.5ae3e36e.chunk.js",
-    "static/js/3.5ae3e36e.chunk.js.map": "//soplay.github.io/seed39/static/js/3.5ae3e36e.chunk.js.map",
-    "index.html": "//soplay.github.io/seed39/index.html",
-    "static/css/main.d6360637.chunk.css.map": "//soplay.github.io/seed39/static/css/main.d6360637.chunk.css.map",
-    "static/js/2.fb7bf357.chunk.js.LICENSE.txt": "//soplay.github.io/seed39/static/js/2.fb7bf357.chunk.js.LICENSE.txt"
+    "main.css": "/seed39/static/css/main.7eeb5717.chunk.css",
+    "main.js": "/seed39/static/js/main.fd20c975.chunk.js",
+    "main.js.map": "/seed39/static/js/main.fd20c975.chunk.js.map",
+    "runtime-main.js": "/seed39/static/js/runtime-main.817a8d9c.js",
+    "runtime-main.js.map": "/seed39/static/js/runtime-main.817a8d9c.js.map",
+    "static/js/2.8be7c7b8.chunk.js": "/seed39/static/js/2.8be7c7b8.chunk.js",
+    "static/js/2.8be7c7b8.chunk.js.map": "/seed39/static/js/2.8be7c7b8.chunk.js.map",
+    "static/js/3.6a05739f.chunk.js": "/seed39/static/js/3.6a05739f.chunk.js",
+    "static/js/3.6a05739f.chunk.js.map": "/seed39/static/js/3.6a05739f.chunk.js.map",
+    "index.html": "/seed39/index.html",
+    "static/css/main.7eeb5717.chunk.css.map": "/seed39/static/css/main.7eeb5717.chunk.css.map",
+    "static/js/2.8be7c7b8.chunk.js.LICENSE.txt": "/seed39/static/js/2.8be7c7b8.chunk.js.LICENSE.txt",
+    "static/media/search.scss": "/seed39/static/media/Maplestory Bold.e3928722.ttf",
+    "static/media/quest.scss": "/seed39/static/media/Maplestory Light.9d949758.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.73ee31f2.js",
-    "static/js/2.fb7bf357.chunk.js",
-    "static/css/main.d6360637.chunk.css",
-    "static/js/main.8e025c2c.chunk.js"
+    "static/js/runtime-main.817a8d9c.js",
+    "static/js/2.8be7c7b8.chunk.js",
+    "static/css/main.7eeb5717.chunk.css",
+    "static/js/main.fd20c975.chunk.js"
   ]
 }
