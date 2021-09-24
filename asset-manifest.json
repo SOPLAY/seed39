@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/seed39/static/css/main.9f9dde0c.chunk.css",
-    "main.js": "/seed39/static/js/main.e52c483a.chunk.js",
-    "main.js.map": "/seed39/static/js/main.e52c483a.chunk.js.map",
+    "main.css": "/seed39/static/css/main.ce616548.chunk.css",
+    "main.js": "/seed39/static/js/main.87aeed10.chunk.js",
+    "main.js.map": "/seed39/static/js/main.87aeed10.chunk.js.map",
     "runtime-main.js": "/seed39/static/js/runtime-main.cb477afb.js",
     "runtime-main.js.map": "/seed39/static/js/runtime-main.cb477afb.js.map",
     "static/js/2.5899643e.chunk.js": "/seed39/static/js/2.5899643e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.878c1d10.chunk.js": "/seed39/static/js/3.878c1d10.chunk.js",
     "static/js/3.878c1d10.chunk.js.map": "/seed39/static/js/3.878c1d10.chunk.js.map",
     "index.html": "/seed39/index.html",
-    "static/css/main.9f9dde0c.chunk.css.map": "/seed39/static/css/main.9f9dde0c.chunk.css.map",
+    "static/css/main.ce616548.chunk.css.map": "/seed39/static/css/main.ce616548.chunk.css.map",
     "static/js/2.5899643e.chunk.js.LICENSE.txt": "/seed39/static/js/2.5899643e.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/seed39/static/media/Maplestory-Light.e94c8122.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.cb477afb.js",
     "static/js/2.5899643e.chunk.js",
-    "static/css/main.9f9dde0c.chunk.css",
-    "static/js/main.e52c483a.chunk.js"
+    "static/css/main.ce616548.chunk.css",
+    "static/js/main.87aeed10.chunk.js"
   ]
 }
