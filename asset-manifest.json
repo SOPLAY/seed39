@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/seed39/static/css/main.7eeb5717.chunk.css",
-    "main.js": "/seed39/static/js/main.29f714ed.chunk.js",
-    "main.js.map": "/seed39/static/js/main.29f714ed.chunk.js.map",
-    "runtime-main.js": "/seed39/static/js/runtime-main.817a8d9c.js",
-    "runtime-main.js.map": "/seed39/static/js/runtime-main.817a8d9c.js.map",
-    "static/js/2.8be7c7b8.chunk.js": "/seed39/static/js/2.8be7c7b8.chunk.js",
-    "static/js/2.8be7c7b8.chunk.js.map": "/seed39/static/js/2.8be7c7b8.chunk.js.map",
-    "static/js/3.6a05739f.chunk.js": "/seed39/static/js/3.6a05739f.chunk.js",
-    "static/js/3.6a05739f.chunk.js.map": "/seed39/static/js/3.6a05739f.chunk.js.map",
+    "main.css": "/seed39/static/css/main.9f9dde0c.chunk.css",
+    "main.js": "/seed39/static/js/main.e52c483a.chunk.js",
+    "main.js.map": "/seed39/static/js/main.e52c483a.chunk.js.map",
+    "runtime-main.js": "/seed39/static/js/runtime-main.cb477afb.js",
+    "runtime-main.js.map": "/seed39/static/js/runtime-main.cb477afb.js.map",
+    "static/js/2.5899643e.chunk.js": "/seed39/static/js/2.5899643e.chunk.js",
+    "static/js/2.5899643e.chunk.js.map": "/seed39/static/js/2.5899643e.chunk.js.map",
+    "static/js/3.878c1d10.chunk.js": "/seed39/static/js/3.878c1d10.chunk.js",
+    "static/js/3.878c1d10.chunk.js.map": "/seed39/static/js/3.878c1d10.chunk.js.map",
     "index.html": "/seed39/index.html",
-    "static/css/main.7eeb5717.chunk.css.map": "/seed39/static/css/main.7eeb5717.chunk.css.map",
-    "static/js/2.8be7c7b8.chunk.js.LICENSE.txt": "/seed39/static/js/2.8be7c7b8.chunk.js.LICENSE.txt",
-    "static/media/search.scss": "/seed39/static/media/Maplestory Bold.e3928722.ttf",
-    "static/media/quest.scss": "/seed39/static/media/Maplestory Light.9d949758.ttf"
+    "static/css/main.9f9dde0c.chunk.css.map": "/seed39/static/css/main.9f9dde0c.chunk.css.map",
+    "static/js/2.5899643e.chunk.js.LICENSE.txt": "/seed39/static/js/2.5899643e.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/seed39/static/media/Maplestory-Light.e94c8122.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.817a8d9c.js",
-    "static/js/2.8be7c7b8.chunk.js",
-    "static/css/main.7eeb5717.chunk.css",
-    "static/js/main.29f714ed.chunk.js"
+    "static/js/runtime-main.cb477afb.js",
+    "static/js/2.5899643e.chunk.js",
+    "static/css/main.9f9dde0c.chunk.css",
+    "static/js/main.e52c483a.chunk.js"
   ]
 }
